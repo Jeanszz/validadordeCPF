@@ -1,0 +1,12 @@
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\Situação de Aprendizagem Console\Situação de Aprendizagem Console\obj\Debug\Situação de Aprendizagem Console.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\Situação de Aprendizagem Console\Situação de Aprendizagem Console\bin\Debug\Situação de Aprendizagem Console.exe.config
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\Situação de Aprendizagem Console\Situação de Aprendizagem Console\bin\Debug\Situação de Aprendizagem Console.exe
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\Situação de Aprendizagem Console\Situação de Aprendizagem Console\bin\Debug\Situação de Aprendizagem Console.pdb
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\Situação de Aprendizagem Console\Situação de Aprendizagem Console\obj\Debug\Situação de Aprendizagem Console.exe
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\Situação de Aprendizagem Console\Situação de Aprendizagem Console\obj\Debug\Situação de Aprendizagem Console.pdb
+C:\Users\Aluno_Noite\Desktop\Situação de Aprendizagem Console\Situação de Aprendizagem Console\bin\Debug\Situação de Aprendizagem Console.exe.config
+C:\Users\Aluno_Noite\Desktop\Situação de Aprendizagem Console\Situação de Aprendizagem Console\bin\Debug\Situação de Aprendizagem Console.exe
+C:\Users\Aluno_Noite\Desktop\Situação de Aprendizagem Console\Situação de Aprendizagem Console\bin\Debug\Situação de Aprendizagem Console.pdb
+C:\Users\Aluno_Noite\Desktop\Situação de Aprendizagem Console\Situação de Aprendizagem Console\obj\Debug\Situação de Aprendizagem Console.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Noite\Desktop\Situação de Aprendizagem Console\Situação de Aprendizagem Console\obj\Debug\Situação de Aprendizagem Console.exe
+C:\Users\Aluno_Noite\Desktop\Situação de Aprendizagem Console\Situação de Aprendizagem Console\obj\Debug\Situação de Aprendizagem Console.pdb
